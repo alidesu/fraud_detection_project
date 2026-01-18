@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data / artifacts (large)
+creditcardfraud.zip
+creditcardfraud/
+*.csv
+
+# Models / outputs
+models/
+outputs/
